@@ -1,0 +1,8 @@
+{
+  "db": {
+    "host": "localhost",
+    "name": "tracking",
+    "user": "root",
+    "pass": "1111"
+  }
+}
